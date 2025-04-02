@@ -810,6 +810,10 @@
     [
       "788df4b9-9107-41b0-b5cb-b766128c8ce8",
       "Power"
+    ],
+    [
+      "f2dc239a-3b80-4ba8-ad33-1cfd635cb572",
+      "Oled"
     ]
   ],
   "text_variables": {}
