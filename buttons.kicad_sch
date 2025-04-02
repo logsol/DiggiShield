@@ -2104,7 +2104,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "020750f5-33d4-4dad-bdea-7ae380753b4a")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0211"
 			(at 138.43 29.21 0)
 			(effects
 				(font
@@ -2154,7 +2154,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0211")
 					(unit 1)
 				)
 			)
@@ -2310,7 +2310,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "080d1e54-bb71-4e44-ab16-32fc221bacb7")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0222"
 			(at 140.97 172.72 0)
 			(effects
 				(font
@@ -2360,7 +2360,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0222")
 					(unit 1)
 				)
 			)
@@ -2376,7 +2376,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "08f1bc4f-8856-4b5a-a8f5-864ecc905108")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0217"
 			(at 140.97 129.54 0)
 			(effects
 				(font
@@ -2426,7 +2426,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0217")
 					(unit 1)
 				)
 			)
@@ -2442,7 +2442,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "0ad0d00d-e4a7-4211-a945-2b5184cdb86d")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0221"
 			(at 140.97 160.02 0)
 			(effects
 				(font
@@ -2492,7 +2492,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0221")
 					(unit 1)
 				)
 			)
@@ -2508,7 +2508,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "17c44077-d971-4946-b5a2-e1af3c46f216")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0223"
 			(at 200.66 106.68 0)
 			(effects
 				(font
@@ -2558,7 +2558,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0223")
 					(unit 1)
 				)
 			)
@@ -2574,7 +2574,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1c3106d3-b0da-4cbc-a83a-685c97c8aeac")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0243"
 			(at 50.8 142.24 0)
 			(effects
 				(font
@@ -2624,7 +2624,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0243")
 					(unit 1)
 				)
 			)
@@ -2640,7 +2640,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1f514b0f-053c-4065-a878-11cd2a69e19f")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0225"
 			(at 223.52 93.98 0)
 			(effects
 				(font
@@ -2690,7 +2690,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0225")
 					(unit 1)
 				)
 			)
@@ -2706,7 +2706,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "1ffdbe54-16fa-4c9a-8c10-107eb3e330e0")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0226"
 			(at 222.25 76.2 0)
 			(effects
 				(font
@@ -2756,7 +2756,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0226")
 					(unit 1)
 				)
 			)
@@ -2846,7 +2846,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "249769db-f45c-4b9f-865b-eef08f822de5")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0237"
 			(at 101.6 66.04 0)
 			(effects
 				(font
@@ -2896,7 +2896,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0237")
 					(unit 1)
 				)
 			)
@@ -2982,7 +2982,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "27f36da8-3973-4a3b-bd8e-bac62e8313a9")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0227"
 			(at 223.52 106.68 0)
 			(effects
 				(font
@@ -3032,7 +3032,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0227")
 					(unit 1)
 				)
 			)
@@ -3048,7 +3048,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2c19a536-4e43-4255-9db0-fd922076ab6c")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0220"
 			(at 118.11 142.24 0)
 			(effects
 				(font
@@ -3098,7 +3098,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0220")
 					(unit 1)
 				)
 			)
@@ -3114,7 +3114,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "2e1940a4-0500-4d45-beda-4aa21677ae99")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0235"
 			(at 78.74 78.74 0)
 			(effects
 				(font
@@ -3164,7 +3164,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0235")
 					(unit 1)
 				)
 			)
@@ -3320,7 +3320,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3bc69f1d-26ac-435d-8bea-a07c041dd59a")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0229"
 			(at 53.34 95.25 0)
 			(effects
 				(font
@@ -3370,7 +3370,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0229")
 					(unit 1)
 				)
 			)
@@ -3386,7 +3386,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3c7b575f-973e-4f5e-b2c0-7a58c2d41afe")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0208"
 			(at 138.43 41.91 0)
 			(effects
 				(font
@@ -3436,7 +3436,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0208")
 					(unit 1)
 				)
 			)
@@ -3452,7 +3452,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4367a1df-8c63-4fbd-addb-377cbab11484")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0219"
 			(at 140.97 142.24 0)
 			(effects
 				(font
@@ -3502,7 +3502,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0219")
 					(unit 1)
 				)
 			)
@@ -3518,7 +3518,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4ac38a23-b4c6-46c3-82b5-4d072129259a")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0224"
 			(at 199.39 76.2 0)
 			(effects
 				(font
@@ -3568,7 +3568,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0224")
 					(unit 1)
 				)
 			)
@@ -3798,7 +3798,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "54b64c3c-11aa-436b-9b0a-4bbe8c41cd48")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0218"
 			(at 118.11 172.72 0)
 			(effects
 				(font
@@ -3848,7 +3848,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0218")
 					(unit 1)
 				)
 			)
@@ -3864,7 +3864,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "56ae60c1-4d9a-4c9b-8a31-0882bb9cea90")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0212"
 			(at 175.26 93.98 0)
 			(effects
 				(font
@@ -3914,7 +3914,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0212")
 					(unit 1)
 				)
 			)
@@ -4152,7 +4152,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "5eebd7f8-3346-4d77-984b-17b6383aceae")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0242"
 			(at 27.94 142.24 0)
 			(effects
 				(font
@@ -4202,7 +4202,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0242")
 					(unit 1)
 				)
 			)
@@ -4218,7 +4218,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "608be5d0-c6de-45a6-8095-6df8c0cb3ef0")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0244"
 			(at 50.8 161.29 0)
 			(effects
 				(font
@@ -4268,7 +4268,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0244")
 					(unit 1)
 				)
 			)
@@ -4358,7 +4358,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "635a2e40-2f13-4593-bc05-17365d6d7540")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0238"
 			(at 101.6 95.25 0)
 			(effects
 				(font
@@ -4408,7 +4408,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0238")
 					(unit 1)
 				)
 			)
@@ -4782,7 +4782,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "7b177bed-fd09-4f60-b63f-1348129207d5")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0247"
 			(at 59.69 30.48 0)
 			(effects
 				(font
@@ -4832,7 +4832,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0247")
 					(unit 1)
 				)
 			)
@@ -4848,7 +4848,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "80221886-e212-4814-a26d-25affd9aa9bd")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0230"
 			(at 31.75 78.74 0)
 			(effects
 				(font
@@ -4898,7 +4898,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0230")
 					(unit 1)
 				)
 			)
@@ -4984,7 +4984,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "82c8592a-2e7b-4f70-ba9e-54bebf324e15")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0245"
 			(at 27.94 173.99 0)
 			(effects
 				(font
@@ -5034,7 +5034,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0245")
 					(unit 1)
 				)
 			)
@@ -5050,7 +5050,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8344cc43-700b-4cf9-b40f-524bcb64452b")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0248"
 			(at 59.69 43.18 0)
 			(effects
 				(font
@@ -5100,7 +5100,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0248")
 					(unit 1)
 				)
 			)
@@ -5116,7 +5116,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "86e54223-71cc-458f-8651-408646a56d86")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0233"
 			(at 30.48 107.95 0)
 			(effects
 				(font
@@ -5166,7 +5166,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0233")
 					(unit 1)
 				)
 			)
@@ -5182,7 +5182,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "8886aec6-d5e3-4258-ba9c-dcb8a66c3563")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0231"
 			(at 54.61 66.04 0)
 			(effects
 				(font
@@ -5232,7 +5232,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0231")
 					(unit 1)
 				)
 			)
@@ -5322,7 +5322,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9af86128-4591-4bbf-a22d-383869dc6bc3")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0214"
 			(at 222.25 63.5 0)
 			(effects
 				(font
@@ -5372,7 +5372,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0214")
 					(unit 1)
 				)
 			)
@@ -5388,7 +5388,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "9e1ee936-51e0-4ae8-8230-64b67d585d81")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0246"
 			(at 36.83 43.18 0)
 			(effects
 				(font
@@ -5438,7 +5438,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0246")
 					(unit 1)
 				)
 			)
@@ -5598,7 +5598,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "a9655c7e-9282-4294-9c62-bedf79ff0971")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0236"
 			(at 78.74 107.95 0)
 			(effects
 				(font
@@ -5648,7 +5648,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0236")
 					(unit 1)
 				)
 			)
@@ -5734,7 +5734,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "afd98e31-ac3d-441f-b76a-bb5c0648b107")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0215"
 			(at 175.26 77.47 0)
 			(effects
 				(font
@@ -5784,7 +5784,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0215")
 					(unit 1)
 				)
 			)
@@ -5800,7 +5800,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b273936b-e8a1-49f0-885d-9bd7e30d9ba9")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0216"
 			(at 175.26 106.68 0)
 			(effects
 				(font
@@ -5850,7 +5850,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0216")
 					(unit 1)
 				)
 			)
@@ -5866,7 +5866,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b86e763d-6188-4a1f-a1cf-132a45dd1ddd")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0234"
 			(at 50.8 129.54 0)
 			(effects
 				(font
@@ -5916,7 +5916,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0234")
 					(unit 1)
 				)
 			)
@@ -6002,7 +6002,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c4a4490e-1187-4880-a75f-836ace524eb4")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0207"
 			(at 115.57 41.91 0)
 			(effects
 				(font
@@ -6052,7 +6052,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0207")
 					(unit 1)
 				)
 			)
@@ -6282,7 +6282,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c7106cc1-fd1a-4bd3-b9dd-922f504f76cb")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0239"
 			(at 101.6 78.74 0)
 			(effects
 				(font
@@ -6332,7 +6332,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0239")
 					(unit 1)
 				)
 			)
@@ -6488,7 +6488,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ca608e9e-e216-48e4-829c-e7f47acc2d76")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0241"
 			(at 50.8 173.99 0)
 			(effects
 				(font
@@ -6538,7 +6538,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0241")
 					(unit 1)
 				)
 			)
@@ -6624,7 +6624,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "ce26dd6f-9eea-420e-b2ee-0ea21175539d")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0232"
 			(at 53.34 107.95 0)
 			(effects
 				(font
@@ -6674,7 +6674,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0232")
 					(unit 1)
 				)
 			)
@@ -6760,7 +6760,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "d9712574-d537-406f-94cf-ae3fec342a3a")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0240"
 			(at 101.6 107.95 0)
 			(effects
 				(font
@@ -6810,7 +6810,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0240")
 					(unit 1)
 				)
 			)
@@ -6826,7 +6826,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "da116a7e-a701-4016-88ab-04166f5da8b6")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0213"
 			(at 175.26 64.77 0)
 			(effects
 				(font
@@ -6876,7 +6876,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0213")
 					(unit 1)
 				)
 			)
@@ -7250,7 +7250,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e830bbcd-04b3-4ca2-adea-983584235ac9")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0228"
 			(at 54.61 78.74 0)
 			(effects
 				(font
@@ -7300,7 +7300,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0228")
 					(unit 1)
 				)
 			)
@@ -7316,7 +7316,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e9837413-b504-40c1-9adf-c4cd97e9512d")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0210"
 			(at 152.4 77.47 0)
 			(effects
 				(font
@@ -7366,7 +7366,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0210")
 					(unit 1)
 				)
 			)
@@ -7592,7 +7592,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f2cc9bc2-ce5c-4008-b747-daa509185b32")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0209"
 			(at 152.4 106.68 0)
 			(effects
 				(font
@@ -7642,7 +7642,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/cbd8cb1f-afeb-4ec7-8a99-5d90828ee89c"
-					(reference "#PWR?")
+					(reference "#PWR0209")
 					(unit 1)
 				)
 			)

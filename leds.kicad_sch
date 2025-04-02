@@ -818,7 +818,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "f7c9d6c0-fcf4-461e-bfba-5be9eb21b14c")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0186"
 			(at 69.85 85.09 0)
 			(effects
 				(font
@@ -868,7 +868,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/bed406b6-12b0-4660-ab7b-74b01e005d7a"
-					(reference "#PWR?")
+					(reference "#PWR0186")
 					(unit 1)
 				)
 			)

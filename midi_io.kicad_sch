@@ -1747,7 +1747,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "00880712-5dd3-4efe-9956-0162ac9f2da9")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0188"
 			(at 93.98 38.1 0)
 			(effects
 				(font
@@ -1797,7 +1797,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/4a23c275-8685-4316-ac30-e93166529349"
-					(reference "#PWR?")
+					(reference "#PWR0188")
 					(unit 1)
 				)
 			)
@@ -1970,7 +1970,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2d9c8644-90d1-4ccd-a027-ff0598dbaf3c")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0187"
 			(at 93.98 60.96 0)
 			(effects
 				(font
@@ -2020,7 +2020,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/4a23c275-8685-4316-ac30-e93166529349"
-					(reference "#PWR?")
+					(reference "#PWR0187")
 					(unit 1)
 				)
 			)
@@ -2036,7 +2036,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "47ef9009-1b60-429d-b87c-283b5238f054")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0190"
 			(at 105.41 45.72 0)
 			(effects
 				(font
@@ -2086,7 +2086,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/4a23c275-8685-4316-ac30-e93166529349"
-					(reference "#PWR?")
+					(reference "#PWR0190")
 					(unit 1)
 				)
 			)
@@ -2241,7 +2241,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d1adc868-df00-429c-bdc7-2e59d1f3868e")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0189"
 			(at 97.79 45.72 0)
 			(effects
 				(font
@@ -2291,7 +2291,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/4a23c275-8685-4316-ac30-e93166529349"
-					(reference "#PWR?")
+					(reference "#PWR0189")
 					(unit 1)
 				)
 			)
@@ -2460,7 +2460,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd6d1cbe-80bb-4b89-94cf-718687ddfba8")
-		(property "Reference" "#PWR?"
+		(property "Reference" "#PWR0191"
 			(at 58.42 78.74 0)
 			(effects
 				(font
@@ -2510,7 +2510,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/4a23c275-8685-4316-ac30-e93166529349"
-					(reference "#PWR?")
+					(reference "#PWR0191")
 					(unit 1)
 				)
 			)
