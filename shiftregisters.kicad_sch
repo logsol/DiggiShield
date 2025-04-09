@@ -2512,7 +2512,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0187f041-4f29-46f7-a2ef-538941b00410")
-		(property "Reference" "U?"
+		(property "Reference" "U2"
 			(at 103.7941 41.91 0)
 			(effects
 				(font
@@ -2608,7 +2608,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/4a4e12e0-86da-4c7e-aa92-3e2740ba45ee"
-					(reference "U?")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -2624,7 +2624,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0263c3e7-f17f-42fb-b513-716ce961e75e")
-		(property "Reference" "C?"
+		(property "Reference" "C29"
 			(at 62.23 36.8362 0)
 			(effects
 				(font
@@ -2678,7 +2678,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/4a4e12e0-86da-4c7e-aa92-3e2740ba45ee"
-					(reference "C?")
+					(reference "C29")
 					(unit 1)
 				)
 			)
@@ -2958,7 +2958,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2a779360-16bb-48f0-b9e8-3f2ad4c7c1be")
-		(property "Reference" "U?"
+		(property "Reference" "U1"
 			(at 61.8841 41.91 0)
 			(effects
 				(font
@@ -3054,7 +3054,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/4a4e12e0-86da-4c7e-aa92-3e2740ba45ee"
-					(reference "U?")
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -3070,7 +3070,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2b229378-3db3-4c6d-9106-26d6206430b0")
-		(property "Reference" "C?"
+		(property "Reference" "C33"
 			(at 233.68 38.1062 0)
 			(effects
 				(font
@@ -3124,7 +3124,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/4a4e12e0-86da-4c7e-aa92-3e2740ba45ee"
-					(reference "C?")
+					(reference "C33")
 					(unit 1)
 				)
 			)
@@ -3470,7 +3470,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4c6ae47f-400f-4edd-b924-4c7c8c102c9a")
-		(property "Reference" "C?"
+		(property "Reference" "C31"
 			(at 146.05 36.8362 0)
 			(effects
 				(font
@@ -3524,7 +3524,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/4a4e12e0-86da-4c7e-aa92-3e2740ba45ee"
-					(reference "C?")
+					(reference "C31")
 					(unit 1)
 				)
 			)
@@ -3606,7 +3606,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "609f795e-690a-407c-b077-3e52414f65b6")
-		(property "Reference" "C?"
+		(property "Reference" "C30"
 			(at 104.14 36.8362 0)
 			(effects
 				(font
@@ -3660,7 +3660,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/4a4e12e0-86da-4c7e-aa92-3e2740ba45ee"
-					(reference "C?")
+					(reference "C30")
 					(unit 1)
 				)
 			)
@@ -3676,7 +3676,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6ca79006-6d38-41cb-9954-26a861da92cc")
-		(property "Reference" "U?"
+		(property "Reference" "U5"
 			(at 233.3341 41.91 0)
 			(effects
 				(font
@@ -3772,7 +3772,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/4a4e12e0-86da-4c7e-aa92-3e2740ba45ee"
-					(reference "U?")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -3986,7 +3986,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "af601f03-3a54-4323-8f10-7645feef0f12")
-		(property "Reference" "U?"
+		(property "Reference" "U4"
 			(at 188.8841 41.91 0)
 			(effects
 				(font
@@ -4082,7 +4082,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/4a4e12e0-86da-4c7e-aa92-3e2740ba45ee"
-					(reference "U?")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -4164,7 +4164,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dbd8e607-5d3d-4abc-84ea-4f79ba51f826")
-		(property "Reference" "U?"
+		(property "Reference" "U3"
 			(at 145.7041 41.91 0)
 			(effects
 				(font
@@ -4260,7 +4260,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/4a4e12e0-86da-4c7e-aa92-3e2740ba45ee"
-					(reference "U?")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -4276,7 +4276,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e752f102-f957-443e-a311-3b15146fcf1c")
-		(property "Reference" "C?"
+		(property "Reference" "C32"
 			(at 189.23 36.8362 0)
 			(effects
 				(font
@@ -4330,7 +4330,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/4a4e12e0-86da-4c7e-aa92-3e2740ba45ee"
-					(reference "C?")
+					(reference "C32")
 					(unit 1)
 				)
 			)

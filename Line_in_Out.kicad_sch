@@ -2519,7 +2519,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "88e4ee41-ba03-4c25-82df-dd6d92650ddb")
-		(property "Reference" "J_IN_L"
+		(property "Reference" "J_IN_L1"
 			(at 51.435 33.02 0)
 			(effects
 				(font
@@ -2583,7 +2583,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/2c1ec2b5-4b06-4755-8228-7d0a032d790f"
-					(reference "J_IN_L")
+					(reference "J_IN_L1")
 					(unit 1)
 				)
 			)
@@ -2681,7 +2681,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a1ed016c-d2a2-439c-a6df-fe3a9e49f8d6")
-		(property "Reference" "J_OUT_HP"
+		(property "Reference" "J_OUT_HP1"
 			(at 73.025 111.76 0)
 			(effects
 				(font
@@ -2739,7 +2739,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/2c1ec2b5-4b06-4755-8228-7d0a032d790f"
-					(reference "J_OUT_HP")
+					(reference "J_OUT_HP1")
 					(unit 1)
 				)
 			)
@@ -2755,7 +2755,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bb611b27-9c18-4c43-b4ea-d7512de08ff6")
-		(property "Reference" "J_IN_R"
+		(property "Reference" "J_IN_R1"
 			(at 51.435 62.23 0)
 			(effects
 				(font
@@ -2819,7 +2819,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/2c1ec2b5-4b06-4755-8228-7d0a032d790f"
-					(reference "J_IN_R")
+					(reference "J_IN_R1")
 					(unit 1)
 				)
 			)
