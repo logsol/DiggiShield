@@ -129,13 +129,9 @@
 			(embedded_fonts no)
 		)
 		(symbol "Graphic:SYM_Radio_Waves_Small"
-			(pin_names
-				(offset 1.016)
-				(hide yes)
-			)
 			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
+			(in_bom no)
+			(on_board no)
 			(property "Reference" "#SYM"
 				(at 0 3.556 0)
 				(effects
@@ -173,6 +169,15 @@
 				)
 			)
 			(property "Description" "Radio waves warning symbol, small"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Enable" "0"
 				(at 0 0 0)
 				(effects
 					(font
@@ -28127,10 +28132,9 @@
 		(at 24.13 186.69 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
+		(in_bom no)
+		(on_board no)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "cca70da7-620a-4acc-a98b-183ffeeab225")
 		(property "Reference" "DUMMY1"
 			(at 24.13 183.134 0)
@@ -28142,11 +28146,12 @@
 			)
 		)
 		(property "Value" "Dummy for 3D model"
-			(at 24.13 189.865 0)
+			(at 16.002 190.246 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify left)
 			)
 		)
 		(property "Footprint" "ksoloti_shield_footprints:Dummy for 3D model"
@@ -28167,12 +28172,22 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Radio waves warning symbol, small"
 			(at 24.13 186.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Enable" "0"
+			(at 24.13 186.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(instances

@@ -421,6 +421,18 @@
 						(type none)
 					)
 				)
+				(arc
+					(start -0.381 2.667)
+					(mid 2.3368 -0.0635)
+					(end -0.381 -2.794)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
 				(circle
 					(center -0.381 0)
 					(radius 1.905)
@@ -436,18 +448,6 @@
 					(pts
 						(xy -0.381 -1.778) (xy -0.381 1.778)
 					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -0.381 -2.794)
-					(mid -3.0987 -0.0635)
-					(end -0.381 2.667)
 					(stroke
 						(width 0.254)
 						(type default)
