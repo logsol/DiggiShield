@@ -386,8 +386,12 @@
 		)
 		(symbol "power:+3.3V"
 			(power)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 0)
+				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -487,8 +491,7 @@
 				(pin power_in line
 					(at 0 0 90)
 					(length 0)
-					(hide yes)
-					(name "+3.3V"
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -508,8 +511,12 @@
 		)
 		(symbol "power:+3.3VA"
 			(power)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 0)
+				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -609,8 +616,7 @@
 				(pin power_in line
 					(at 0 0 90)
 					(length 0)
-					(hide yes)
-					(name "+3.3VA"
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -630,8 +636,12 @@
 		)
 		(symbol "power:+5V"
 			(power)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 0)
+				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -731,8 +741,7 @@
 				(pin power_in line
 					(at 0 0 90)
 					(length 0)
-					(hide yes)
-					(name "+5V"
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -752,8 +761,12 @@
 		)
 		(symbol "power:GND"
 			(power)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 0)
+				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -829,8 +842,7 @@
 				(pin power_in line
 					(at 0 0 270)
 					(length 0)
-					(hide yes)
-					(name "GND"
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -850,8 +862,12 @@
 		)
 		(symbol "power:GNDA"
 			(power)
+			(pin_numbers
+				(hide yes)
+			)
 			(pin_names
 				(offset 0)
+				(hide yes)
 			)
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -927,8 +943,7 @@
 				(pin power_in line
 					(at 0 0 270)
 					(length 0)
-					(hide yes)
-					(name "GNDA"
+					(name "~"
 						(effects
 							(font
 								(size 1.27 1.27)
@@ -17486,25 +17501,7 @@
 			"AWk2A2Y1AlguA0klBEUkCi0OfHxSpYRZg1k4XC4QSx8DOhAJlXBOu5tu58uf5cygwql6o4dXnX1Q"
 			"ooBVoHxSn3lOnXZKmnRHjGU3kmg/q4NcJQYDPhULFgcBjGZDkZRhI1QZBFsfAWkoAHEuAXg1An08"
 			"A39CH0gs9v/5//7///7/////////////////////////////////////////////////////////"
-			"/////////////////wAAAGUAAABYAAAAMAAAADgAAABxAAAAbQAAAFAAAABLAAAAOQAAAGsAAABz"
-			"AAAANAAAAE4AAABSAAAASQAAADcAAABNAAAATAAAAEcAAABYAAAAMQAAAFUAAABRAAAAWAAAAFQA"
-			"AAAxAAAAeQAAAG4AAABSAAAALwAAADYAAABJAAAASAAAAFkAAABHAAAAQwAAAFQAAABIAAAARAAA"
-			"AHgAAAB1AAAALwAAAGMAAABTAAAASwAAAEIAAABUAAAAVQAAAFkAAABQAAAANgAAAFYAAABjAAAA"
-			"bwAAAGEAAABMAAAAWAAAADYAAAA1AAAAawAAADgAAABlAAAAeAAAADQAAAB1AAAANAAAAC8AAAA1"
-			"AAAAagAAAEUAAAB1AAAAaAAAAFAAAAAvAAAAdAAAADkAAABMAAAAWgAAAEUAAABTAAAARwAAAFMA"
-			"AABSAAAAVQAAAEUAAABnAAAAWgAAAHIAAABkAAAAaAAAAHQAAABQAAAAMgAAADQAAAA1AAAAVQAA"
-			"AG8AAAB0AAAAZAAAAGEAAABjAAAAbgAAAFQAAAB1AAAAWgAAADUAAABMAAAARAAAAEQAAABaAAAA"
-			"bgAAAE4AAABvAAAATwAAAFgAAABVAAAAZQAAAGcAAABTAAAATgAAAGUAAABJAAAALwAAADcAAABJ"
-			"AAAAVgAAAGsAAABKAAAAbgAAAHYAAABJAAAAQwAAAHgAAAB0AAAAQQAAAFIAAABFAAAARQAAAGIA"
-			"AABjAAAAbQAAADcAAABlAAAAbQAAADYAAABZAAAAQQAAADkAAABLAAAAagAAAFIAAABWAAAASAAA"
-			"ADMAAAB4AAAAbAAAAEkAAABRAAAAYwAAAHAAAABkAAAAcwAAADMAAABaAAAAZAAAADUAAAArAAAA"
-			"MAAAAG0AAABOAAAAVAAAAHkAAABVAAAAeQAAADkAAAAvAAAAUAAAAHMAAAB0AAAAaAAAAFgAAAB6"
-			"AAAAOQAAAFkAAAA5AAAANgAAAEQAAABwAAAAdgAAAE4AAAB3AAAAQgAAAGgAAABYAAAANwAAAC8A"
-			"AABGAAAAbgAAAFMAAABOAAAAYgAAAGMAAABXAAAAdgAAAFcAAABrAAAAZQAAADYAAABMAAAAOQAA"
-			"AHAAAAB2AAAAcQAAAGgAAABIAAAANAAAAHkAAABoAAAAdAAAAEsAAABpAAAAZgAAAEEAAABhAAAA"
-			"cwAAAHYAAAAxAAAATAAAAGwAAABjAAAAYgAAAHUAAABmAAAAagAAAEsAAAB0AAAAbgAAAE8AAABU"
-			"AAAAUwAAAGwAAABqAAAAMQAAAG0AAABaAAAAdAAAAGEAAABzAAAAWAAAAFEAAAAzAAAAYgAAAEUA"
-			"AABtAAAAcAAAAFUAAA=="
+			"/////////////////w=="
 		)
 	)
 	(image
@@ -19245,25 +19242,7 @@
 			"SAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADSIKEgBAAAAAgAAAAAAAAAAAAAA"
 			"AAAAAAAAAAAAAAAAAAAAAAAAAABQiChIAQAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA"
 			"AAAAYIgoSAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACSJKEgBAAAAAgAAAAAA"
-			"AGdPYVpvTkZmODd5TmhaRjBjYVFDdGdnTEtrU2hMQm41a0dLeUdTb3dGcWllRlFXTTExZUVJZ2J1"
-			"N0hibTVIVDE5Rk5KeFFQbERjbTVSTkM0TW5ONkhpL3Q5a3hqK2MzaXZiRjFuc2tSa05VZGRkQW14"
-			"cjErTnFLMWhVVzhmYTI3OEJuWmxKZHJWMU0wYnpRTTMvWUNkNjlkaWphbERHWU4wZmVoTE1mK2dR"
-			"Mmpic1p2blYvNlJaeDk4akV3bWo4QkJvY2xuODl4OTZ4MTgvZHZmcEtXOWpjZVdMVVBFNDNTMHRU"
-			"Rm13bGhtZnVnQU9nYjYyTkd5RnhPUEl4TkpwQWxEZHhlWGZmTXFwczVaeUhrZlBaNlAvY2NudU95"
-			"YWIzUEdpbVA0OWIwLzQrN2ZQc0xOeTM3SmhNbFQrZTNTcGVSOUZ5SERsR3BLU2o0UHlUaXlPb255"
-			"UEhRcWgzRTFkblVGUkd6ODNsUlE5TVVqZEtmNzJieGhBNTB0YlZpMnhYR2ZPbzVzSmt0ZmZ5OUdH"
-			"T29hNmpuZ3dBTjQ0ZytQazBxbkVFS2lsYUtuczUyYWhrWWNKelRrVFFERDVvU3c3MGlBTG5vZURC"
-			"a1o3aE11SWZaVkNJelkxM3RKaU5KK1NrVEJ5TmNwN1RnOU9NRDVueitmNWN0ZjU4bkhIK2V5K21y"
-			"Tys4SVhtSFBJZ2F4ZXZvSmJicnFKVWVQR2NPc2R0M0YrcXA4ZjMzd3p2MXYrSEcwVkhuSjBKV3Az"
-			"RzJFekdqV3VHdDh0UU1HanRPaE1rU0NndDVjbEJ4M0JHVi8rT3RkZC9HWGM5bTV1dVA4QkhycnJs"
-			"L2hWU2J4SVA4dFh2VUY0VTVpVWNURmpheEQxeVVEeElRUWFBMW9GcnZtV0tEcnhxK0NlazNLSU1E"
-			"TWxzODBoc2t3VEVoYnAzNi9DbmpNYU9hc2hTSEhBZ091aFdyc2g3K0dNYjhKVVZTQzI3MFNuQjdD"
-			"bnpnZ1VCRnUzSW5NS3NMUGk0Z0FBSUFCSlJFRlVNM3N5VWdDYlc5RkdJT1pNUWZnZTdzNDltSFFX"
-			"ZTlJWVZDS096cnRnRExabk1JTXA3SUtpcXJxS2NXTW44TTdySzBnbWszUjJkcEpNSnBtL1lBRys3"
-			"ek5tekJpNnU3dXhMSXRZUEVadmJ3K3pEMXJBcU5vNjVLYWRtSmhDUzlCU0VKMDNrMXd1UjZxbmw1"
-			"QzAwSTZON1RnNDRSQmpKalRpNUJXeGFJUm9MTUZUVHo3RmM4ODh4M0hIZnB5UVl5R05UOFBvSmdE"
-			"KzhJYy9ZWXpQdkhrTCtlcFh2MEp0YlEzUmFCVExzZ2lIZ2pYcSt6NVNTRUpPaUZnOEFjQ1lzV081"
-			"Nw=="
+			"AA=="
 		)
 	)
 	(global_label "MI4*"
@@ -20895,12 +20874,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
 			(at 119.38 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -21429,12 +21409,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 229.87 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -21560,12 +21541,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 229.87 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -22096,12 +22078,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
 			(at 50.8 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -22429,12 +22412,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+3.3VA\""
 			(at 138.43 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -22493,12 +22477,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
 			(at 175.26 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -22558,12 +22543,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 105.41 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -22622,12 +22608,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 151.13 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -22821,12 +22808,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 229.87 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -23133,7 +23121,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 45.72 192.4034 0)
+			(at 45.72 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23158,12 +23146,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 45.72 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -23491,12 +23480,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
 			(at 132.08 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -23960,12 +23950,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
 			(at 50.8 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -24160,12 +24151,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
 			(at 50.8 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -24292,12 +24284,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
 			(at 50.8 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -24626,12 +24619,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 193.04 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -24957,12 +24951,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 254 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -25156,12 +25151,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 50.8 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -25196,7 +25192,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 113.03 192.4034 0)
+			(at 113.03 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25221,12 +25217,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 113.03 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -25487,12 +25484,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
 			(at 105.41 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -25753,12 +25751,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
 			(at 105.41 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -26693,12 +26692,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+3.3VA\""
 			(at 176.53 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -26825,12 +26825,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
 			(at 175.26 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -28272,7 +28273,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 102.87 192.4034 0)
+			(at 102.87 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28297,12 +28298,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 102.87 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -28430,12 +28432,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
 			(at 229.87 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -28471,7 +28474,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 64.77 192.4034 0)
+			(at 64.77 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28496,12 +28499,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 64.77 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -28562,12 +28566,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GNDA\" , analog ground"
 			(at 148.59 132.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -28626,12 +28631,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+3.3V\""
 			(at 190.5 49.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -28667,7 +28673,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 83.82 192.4034 0)
+			(at 83.82 193.04 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28692,12 +28698,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 83.82 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -28892,12 +28899,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
 			(at 254 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -29762,12 +29770,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"+5V\""
 			(at 125.73 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -29826,12 +29835,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 175.26 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -29891,12 +29901,13 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
 			(at 105.41 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
 			)
 		)
 		(pin "1"
