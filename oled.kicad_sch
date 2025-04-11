@@ -374,7 +374,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "ksoloti:display_i2c_oled"
+		(symbol "ksoloti_shield_symbols:display_i2c_oled"
 			(pin_names
 				(offset 1.016)
 			)
@@ -907,28 +907,16 @@
 		(uuid "54bc176c-4ddd-4307-bc9e-535de0a1149a")
 	)
 	(junction
-		(at 143.51 90.17)
+		(at 143.51 97.79)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "3753c294-3242-48a4-bb91-45e0f83c6bac")
+		(uuid "ba914ac6-1fdf-4650-acda-829d0c8e18ca")
 	)
 	(junction
 		(at 134.62 95.25)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "53f97a3c-3b63-4978-a4b7-212a5a17cc06")
-	)
-	(junction
-		(at 143.51 97.79)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "d4fa7055-2018-4499-aea0-5fd2fd8318c2")
-	)
-	(junction
-		(at 134.62 90.17)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f27c866e-1b54-4e67-a93c-5a9fca0b94ab")
+		(uuid "caaae6af-7aa4-4e5e-82c2-62ca1d9975eb")
 	)
 	(no_connect
 		(at 160.02 110.49)
@@ -946,13 +934,23 @@
 	)
 	(wire
 		(pts
-			(xy 130.81 97.79) (xy 143.51 97.79)
+			(xy 134.62 95.25) (xy 148.59 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "336b1745-11ee-467c-9cdb-7426beacec11")
+		(uuid "2eb5acfc-ad57-4730-961b-c91771e6b787")
+	)
+	(wire
+		(pts
+			(xy 134.62 90.17) (xy 134.62 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38ac1a3c-9d86-48fb-a23b-00b05b004ab0")
 	)
 	(wire
 		(pts
@@ -966,16 +964,6 @@
 	)
 	(wire
 		(pts
-			(xy 143.51 90.17) (xy 143.51 97.79)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4f6a8591-7c3e-4346-b1fd-4b08a55e1e14")
-	)
-	(wire
-		(pts
 			(xy 121.92 107.95) (xy 124.46 107.95)
 		)
 		(stroke
@@ -983,16 +971,6 @@
 			(type default)
 		)
 		(uuid "53e23d95-50bd-483a-94e3-07ec1a5e6f5f")
-	)
-	(wire
-		(pts
-			(xy 143.51 88.9) (xy 143.51 90.17)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "54b938c7-428c-4b00-8553-1e22b35e9b0c")
 	)
 	(wire
 		(pts
@@ -1006,27 +984,7 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 90.17) (xy 134.62 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5e333910-ff3b-4dc8-b8b9-493489d1b2a5")
-	)
-	(wire
-		(pts
-			(xy 134.62 95.25) (xy 148.59 95.25)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "655471d0-c204-48f2-b4c4-602ce6e618aa")
-	)
-	(wire
-		(pts
-			(xy 143.51 97.79) (xy 148.59 97.79)
+			(xy 130.81 97.79) (xy 143.51 97.79)
 		)
 		(stroke
 			(width 0)
@@ -1046,13 +1004,13 @@
 	)
 	(wire
 		(pts
-			(xy 134.62 88.9) (xy 134.62 90.17)
+			(xy 143.51 90.17) (xy 143.51 97.79)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "b9771d87-3b87-4799-98cc-4f58a8eebcbb")
+		(uuid "a8257a3d-adc6-4cfa-95d1-0303c7f0da02")
 	)
 	(wire
 		(pts
@@ -1073,6 +1031,16 @@
 			(type default)
 		)
 		(uuid "c957a5bb-0c67-4490-be0e-034f29272165")
+	)
+	(wire
+		(pts
+			(xy 143.51 97.79) (xy 148.59 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5174e25-9ee0-43ba-989c-9797626eefa9")
 	)
 	(wire
 		(pts
@@ -1735,7 +1703,7 @@
 		)
 	)
 	(symbol
-		(lib_id "ksoloti:display_i2c_oled")
+		(lib_id "ksoloti_shield_symbols:display_i2c_oled")
 		(at 148.59 102.87 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1762,7 +1730,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:2.42 OLED Simon Karl Custom"
+		(property "Footprint" "ksoloti_shield_footprints:128x64OLED_1_3in"
 			(at 158.75 106.68 0)
 			(effects
 				(font
