@@ -2229,8 +2229,8 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "402d6037-a117-4182-a39b-d986c7485b0c")
-		(property "Reference" "RV2"
-			(at 187.96 54.5398 90)
+		(property "Reference" "RV1"
+			(at 213.868 60.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2238,7 +2238,7 @@
 			)
 		)
 		(property "Value" "R_Potentiometer_Dual_MountingPin"
-			(at 187.706 61.214 90)
+			(at 188.722 63.5 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2296,7 +2296,7 @@
 		(instances
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/2c1ec2b5-4b06-4755-8228-7d0a032d790f"
-					(reference "RV2")
+					(reference "RV1")
 					(unit 1)
 				)
 			)
@@ -2820,75 +2820,6 @@
 			(project "diggi_shield_2"
 				(path "/21684161-6457-4723-8fc3-25d7330779e2/2c1ec2b5-4b06-4755-8228-7d0a032d790f"
 					(reference "J_IN_R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R")
-		(at 222.25 36.83 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "d9be4570-efdf-4473-9a3a-7040a4428dc7")
-		(property "Reference" "R55"
-			(at 221.4153 35.052 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "47k"
-			(at 223.52 36.83 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
-			(at 222.25 35.052 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 222.25 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 222.25 36.83 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "4c765748-e8af-46ad-8fdb-dd3579ef7495")
-		)
-		(pin "2"
-			(uuid "969e6450-0ccd-4dc0-8fdc-50a0375a8999")
-		)
-		(instances
-			(project "diggi_shield_2"
-				(path "/21684161-6457-4723-8fc3-25d7330779e2/2c1ec2b5-4b06-4755-8228-7d0a032d790f"
-					(reference "R55")
 					(unit 1)
 				)
 			)
