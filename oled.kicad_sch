@@ -1730,7 +1730,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ksoloti_shield_footprints:128x64OLED_1_3in"
+		(property "Footprint" "Connector_PinHeader_2.54mm:2.42 OLED Simon Karl Custom"
 			(at 158.75 106.68 0)
 			(effects
 				(font
