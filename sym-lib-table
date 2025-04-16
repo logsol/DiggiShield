@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "ksoloti_shield_symbols")(type "KiCad")(uri "${KIPRJMOD}/ksoloti_shield_symbols/ksoloti_shield_symbols.kicad_sym")(options "")(descr ""))
   (lib (name "diggi")(type "KiCad")(uri "${KIPRJMOD}/diggi_symbols/diggi.kicad_sym")(options "")(descr ""))
+  (lib (name "SJ1-3523N")(type "KiCad")(uri "${KIPRJMOD}/diggi_symbols/SJ1-3523N.kicad_sym")(options "")(descr ""))
 )

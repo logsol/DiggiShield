@@ -904,17 +904,6 @@
 		)
 		(uuid "0b9f9fcb-d73d-471a-b390-b8ac57770aca")
 	)
-	(text "*"
-		(exclude_from_sim no)
-		(at 176.53 116.84 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "54bc176c-4ddd-4307-bc9e-535de0a1149a")
-	)
 	(junction
 		(at 143.51 97.79)
 		(diameter 0)
@@ -1739,7 +1728,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "ksoloti_shield_footprints:128x64OLED_1_3in"
+		(property "Footprint" "diggi_footprints:2.42 OLED Simon Karl Custom"
 			(at 158.75 106.68 0)
 			(effects
 				(font

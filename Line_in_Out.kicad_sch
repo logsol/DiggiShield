@@ -129,6 +129,414 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "SJ1-3523N:SJ1-3523N"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at -7.62 8.382 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "SJ1-3523N"
+				(at -7.62 -10.16 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "SJ1-3523N:CUI_SJ1-3523N"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "Same Sky"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MAXIMUM_PACKAGE_HEIGHT" "6.25 mm"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/SJ1-3523N/Same+Sky/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "STANDARD" "Manufacturer Recommendations"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PARTREV" "1.05"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/SJ1-3523N/Same+Sky/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "SJ1-3523N"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45488&manufacturer=Same Sky&part_name=SJ1-3523N&search_term=None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "3.5 mm, Stereo, Right Angle, Through Hole, 3 Conductors, 0 Internal Switches, Audio Jack Connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MANUFACTURER" "CUI Devices"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "SJ1-3523N_0_0"
+				(rectangle
+					(start -7.62 -7.62)
+					(end 7.62 7.62)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -4.445 0.889) (xy -3.81 0.889)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -4.445 -3.556) (xy -4.445 0.889)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 5.08) (xy -3.81 0.889)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.81 0.889) (xy -3.175 0.889)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.175 0.889) (xy -3.175 -3.556)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.175 -3.556) (xy -4.445 -3.556)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.143 1.27) (xy -2.413 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.127 2.54) (xy -1.143 1.27)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.127 -3.81) (xy -1.143 -5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.397 -5.08) (xy 0.127 -3.81)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 5.08) (xy -3.81 5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 2.54) (xy 0.127 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 7.62 -5.08) (xy 1.397 -5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 12.7 5.08 180)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 2.54 180)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 12.7 -5.08 180)
+					(length 5.08)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "diggi:R_Potentiometer_Dual_MountingPin_Diggi"
 			(pin_names
 				(offset 1.016)
@@ -756,233 +1164,6 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "ksoloti_shield_symbols:AudioJack3_3.5mm_Stereo_SwitchT_WQP729JH-Blue_from_Thonk"
-			(exclude_from_sim no)
-			(in_bom yes)
-			(on_board yes)
-			(property "Reference" "J8"
-				(at 1.27 8.2551 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify right)
-				)
-			)
-			(property "Value" "AudioJack3_3.5mm_Stereo_SwitchT_WQP729JH-Blue_from_Thonk"
-				(at 1.27 5.7151 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(justify right)
-				)
-			)
-			(property "Footprint" "ksoloti_shield_footprints:WQP729JH-B"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Datasheet" "~"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Description" "Audio Jack, 3 Poles (Stereo / TRS), Switched TR Poles (Normalling)"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_keywords" "audio jack receptacle stereo headphones phones TRS connector"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "ki_fp_filters" "Jack*"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(symbol "AudioJack3_3.5mm_Stereo_SwitchT_WQP729JH-Blue_from_Thonk_0_1"
-				(rectangle
-					(start -5.08 -5.08)
-					(end -6.35 -7.62)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
-				(polyline
-					(pts
-						(xy -1.905 -5.08) (xy -1.27 -5.715) (xy -0.635 -5.08) (xy -0.635 0) (xy 2.54 0)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 0 -5.08) (xy 0.635 -5.715) (xy 1.27 -5.08) (xy 2.54 -5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 1.778 -5.334) (xy 2.032 -5.842)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(rectangle
-					(start 2.54 3.81)
-					(end -5.08 -10.16)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type background)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 2.54) (xy -2.54 2.54) (xy -2.54 -5.08) (xy -3.175 -5.715) (xy -3.81 -5.08)
-					)
-					(stroke
-						(width 0.254)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(polyline
-					(pts
-						(xy 2.54 -7.62) (xy 1.778 -7.62) (xy 1.778 -5.334) (xy 1.524 -5.842)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-			)
-			(symbol "AudioJack3_3.5mm_Stereo_SwitchT_WQP729JH-Blue_from_Thonk_1_1"
-				(pin passive line
-					(at 5.08 2.54 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "S"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 0 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "R"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -5.08 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "T"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin passive line
-					(at 5.08 -7.62 180)
-					(length 2.54)
-					(name "~"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "TN"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-			)
-			(embedded_fonts no)
-		)
 		(symbol "ksoloti_shield_symbols:AudioJack_6.35mm_TRS_Neutrik_NRJ6HF"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -1295,7 +1476,7 @@
 	)
 	(text "J2: PHONES OUT"
 		(exclude_from_sim no)
-		(at 87.63 128.27 0)
+		(at 45.974 138.684 0)
 		(effects
 			(font
 				(size 2 2)
@@ -1306,7 +1487,7 @@
 	)
 	(text "J1: LINE IN/OUT"
 		(exclude_from_sim no)
-		(at 102.108 88.9 0)
+		(at 41.656 27.178 0)
 		(effects
 			(font
 				(size 2 2)
@@ -1350,10 +1531,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d7c4f6d5-a3b8-489f-8e2e-ee76603de0cb")
-	)
-	(no_connect
-		(at 80.01 128.27)
-		(uuid "1575830b-0349-4c81-bc5e-edc1ba1d941e")
 	)
 	(no_connect
 		(at 232.41 44.45)
@@ -1447,6 +1624,16 @@
 	)
 	(wire
 		(pts
+			(xy 71.12 161.29) (xy 95.25 161.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19b1da85-8173-4f54-8694-eadae5f94e9a")
+	)
+	(wire
+		(pts
 			(xy 208.28 68.58) (xy 208.28 69.85)
 		)
 		(stroke
@@ -1487,13 +1674,13 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 118.11) (xy 100.33 118.11)
+			(xy 71.12 153.67) (xy 95.25 153.67)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "3c88c25d-db2a-4ed8-bed3-0a0ece5211e9")
+		(uuid "4e9a317f-40e4-454f-88c5-4bf7e71c67c9")
 	)
 	(wire
 		(pts
@@ -1557,23 +1744,13 @@
 	)
 	(wire
 		(pts
-			(xy 83.82 118.11) (xy 83.82 120.65)
+			(xy 71.12 151.13) (xy 95.25 151.13)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "6a0a7611-4528-4d4f-9bb6-6cabf15d48b2")
-	)
-	(wire
-		(pts
-			(xy 80.01 120.65) (xy 81.28 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6f65e539-817a-4990-b23d-994abfe629d7")
+		(uuid "77fa07a2-39ac-4ee9-9913-40ed1d49e685")
 	)
 	(wire
 		(pts
@@ -1584,26 +1761,6 @@
 			(type default)
 		)
 		(uuid "8e1e9498-f9bf-46cb-8199-cbc880f95dd6")
-	)
-	(wire
-		(pts
-			(xy 83.82 120.65) (xy 100.33 120.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8eff5624-eeda-42c1-8a7d-0d9aec33926c")
-	)
-	(wire
-		(pts
-			(xy 80.01 125.73) (xy 86.36 125.73)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9605a143-dde5-4767-8f16-c022914d097c")
 	)
 	(wire
 		(pts
@@ -1634,26 +1791,6 @@
 			(type default)
 		)
 		(uuid "a8e47efd-1488-42d5-8c71-6274f266e577")
-	)
-	(wire
-		(pts
-			(xy 81.28 120.65) (xy 81.28 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ae29660f-67cd-46ef-8f27-bdfaefc497ab")
-	)
-	(wire
-		(pts
-			(xy 81.28 123.19) (xy 100.33 123.19)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ae565282-2c78-49de-a00c-cd9461abbab9")
 	)
 	(wire
 		(pts
@@ -1724,26 +1861,6 @@
 			(type default)
 		)
 		(uuid "cf9df092-efc2-41b6-b4a9-d652f99e27f4")
-	)
-	(wire
-		(pts
-			(xy 80.01 118.11) (xy 83.82 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d8db8e2b-0442-4cec-88f7-af56c54dd164")
-	)
-	(wire
-		(pts
-			(xy 86.36 125.73) (xy 86.36 118.11)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e7ca9514-3438-40bc-b531-7d9212c8525d")
 	)
 	(wire
 		(pts
@@ -1853,7 +1970,7 @@
 	)
 	(global_label "HP_R"
 		(shape input)
-		(at 100.33 123.19 0)
+		(at 95.25 153.67 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1863,7 +1980,7 @@
 		)
 		(uuid "3450323b-654d-4bcd-993d-510db2acef66")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 107.5812 123.1106 0)
+			(at 102.5012 153.5906 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1963,7 +2080,7 @@
 	)
 	(global_label "HP_L"
 		(shape input)
-		(at 100.33 118.11 0)
+		(at 95.25 161.29 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1973,7 +2090,7 @@
 		)
 		(uuid "b9ca7e92-6d7c-4c16-af65-50574b2e37cc")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 107.3393 118.0306 0)
+			(at 102.2593 161.2106 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2051,7 +2168,7 @@
 	)
 	(global_label "HP_GND"
 		(shape input)
-		(at 100.33 120.65 0)
+		(at 95.25 151.13 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2061,7 +2178,7 @@
 		)
 		(uuid "f9cdd4f3-f4c1-4f90-911f-64a718ad87ba")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 110.1817 120.5706 0)
+			(at 105.1017 151.0506 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2592,8 +2709,8 @@
 		)
 	)
 	(symbol
-		(lib_id "ksoloti_shield_symbols:AudioJack3_3.5mm_Stereo_SwitchT_WQP729JH-Blue_from_Thonk")
-		(at 74.93 120.65 0)
+		(lib_id "SJ1-3523N:SJ1-3523N")
+		(at 58.42 156.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2602,7 +2719,7 @@
 		(fields_autoplaced yes)
 		(uuid "a1ed016c-d2a2-439c-a6df-fe3a9e49f8d6")
 		(property "Reference" "J_OUT_HP1"
-			(at 73.025 111.76 0)
+			(at 58.42 143.51 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2610,24 +2727,25 @@
 			)
 		)
 		(property "Value" "Headphones Out"
-			(at 73.025 114.3 0)
+			(at 58.42 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "Connector_Audio:Jack_3.5mm_CUI_SJ1-3513N_Horizontal"
-			(at 74.93 120.65 0)
+		(property "Footprint" "diggi_footprints:CUI_SJ1-3523N"
+			(at 58.42 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify bottom)
 				(hide yes)
 			)
 		)
 		(property "Datasheet" "~"
-			(at 74.93 120.65 0)
+			(at 58.42 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2636,7 +2754,7 @@
 			)
 		)
 		(property "Description" "Audio Jack, 3 Poles (Stereo / TRS), Switched TR Poles (Normalling)"
-			(at 74.93 120.65 0)
+			(at 58.42 156.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2644,17 +2762,144 @@
 				(hide yes)
 			)
 		)
-		(pin "R"
+		(property "MF" "Same Sky"
+			(at 58.42 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MAXIMUM_PACKAGE_HEIGHT" "6.25 mm"
+			(at 58.42 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 58.42 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 58.42 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/SJ1-3523N/Same+Sky/view-part/?ref=eda"
+			(at 58.42 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "STANDARD" "Manufacturer Recommendations"
+			(at 58.42 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PARTREV" "1.05"
+			(at 58.42 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/SJ1-3523N/Same+Sky/view-part/?ref=snap"
+			(at 58.42 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "SJ1-3523N"
+			(at 58.42 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Purchase-URL" "https://www.snapeda.com/api/url_track_click_mouser/?unipart_id=45488&manufacturer=Same Sky&part_name=SJ1-3523N&search_term=None"
+			(at 58.42 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "3.5 mm, Stereo, Right Angle, Through Hole, 3 Conductors, 0 Internal Switches, Audio Jack Connector"
+			(at 58.42 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 58.42 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MANUFACTURER" "CUI Devices"
+			(at 58.42 156.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "1"
 			(uuid "f770a27b-1682-43c3-a7bf-a12fbdc0a777")
 		)
-		(pin "T"
+		(pin "3"
 			(uuid "7904f1a1-efde-428f-ab96-05ba4a027359")
 		)
-		(pin "S"
+		(pin "2"
 			(uuid "b2981481-3ef7-4ada-a829-ce0125b690a8")
-		)
-		(pin "TN"
-			(uuid "bcff7fe2-f281-4a4e-9f63-bf7f7c2db56d")
 		)
 		(instances
 			(project "diggi_shield_2"
